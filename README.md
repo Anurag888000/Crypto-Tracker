@@ -41,4 +41,4 @@ Crypto Tracker is a web application that allows you to track the latest cryptocu
 
 Here's a quick demo of the Crypto Tracker in action:
 
-![Crypto Tracker Demo](demo.gif)
+![Crypto Tracker Demo](Demo.gif)
