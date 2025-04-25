@@ -23,6 +23,15 @@ Crypto Tracker is a web application that allows you to track the latest cryptocu
 - **Responsive Layout**: The UI is responsive, adapting to both mobile and desktop screen sizes using media queries in CSS.
 - **Animations and Transitions**: Hover effects and smooth transitions are applied to enhance the user experience, including hover effects on table headers and images.
 - **Sample Data**: The app uses hardcoded sample data for cryptocurrencies instead of fetching data from an external API.
+## 🎬 Demo Video
+
+Check out the demo of the Crypto Tracker in action! 🚀
+
+### 📺 Watch the Demo:
+[**Watch the Demo Video**](https://drive.google.com/file/d/1wI7RUIUyPsrgU9mlkAvjf0X7jA3iVFUJ/view?usp=sharing)
+
+## Demo GIF🎥
+![Crypto Tracker Demo](Demo.gif)
 
 ## Setup Instructions 📝
 
@@ -37,8 +46,3 @@ Crypto Tracker is a web application that allows you to track the latest cryptocu
 
    ```bash
    git clone https://github.com/Anurag888000/crypto-tracker.git
-## Demo 🎥
-
-Here's a quick demo of the Crypto Tracker in action:
-
-![Crypto Tracker Demo](Demo.gif)
